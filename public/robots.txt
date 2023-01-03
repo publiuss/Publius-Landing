@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://publius.money
+
+# Sitemaps
+Sitemap: https://publius.money/sitemap.xml
