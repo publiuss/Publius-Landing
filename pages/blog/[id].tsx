@@ -1,5 +1,6 @@
 import type { GetStaticPathsResult, GetStaticPropsResult, NextPage } from 'next';
 import { NextSeo } from 'next-seo';
+import Link from 'next/link';
 import Script from 'next/script';
 
 import Wrapper, { WrapperProps } from '../../components/Wrapper'
@@ -128,7 +129,7 @@ const Post: NextPage<PostProps> = (props) => {
           </div>
           <div style={{marginTop: '5px', paddingBottom: '5px'}}>
             <small style={{float:"left", color: "#888"}}> {date} </small>
-            <small style={{float:"right", color: "#888"}}><a href="/">See all posts</a></small>
+            <small style={{float:"right", color: "#888"}}><Link href="/">See all posts</Link></small>
           </div>
           <div
             className={`text-[18px] prose`}

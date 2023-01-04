@@ -63,7 +63,7 @@ const Home: NextPage<BlogProps> = ({ allPostsData }) => {
       />
       <div className="flex flex-col items-center px-4 py-8 max-w-2xl mx-auto justify-center" style={{ paddingBottom: '0px'}}>
         <div className="text-left text-2xl py-12">
-          <em>Publius' Website</em>
+          <em>Publius&apos; Website</em>
         </div>
         <div className="space-y-6 md:space-y-12">
           <blockquote className="text-left space-y-4">
