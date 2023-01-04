@@ -13,11 +13,11 @@ const Projects = () => (
         </h1>
         <div className="sm:flex sm:flex-column block items-center">
           <p style={{fontSize: 'small'}}>
-            <a className="blue-link" href="https://bean.money/beanstalk.pdf" target="_blank">Whitepaper</a>
+            <a className="blue-link" href="https://bean.money/beanstalk.pdf" target="_blank" rel="noreferrer">Whitepaper</a>
             <br/>
-            <a className="blue-link" href="https://github.com/BeanstalkFarms/Beanstalk" target="_blank">Github</a>
+            <a className="blue-link" href="https://github.com/BeanstalkFarms/Beanstalk" target="_blank" rel="noreferrer">Github</a>
             <br/>
-            <a className="blue-link" href="https://bean.money" target="_blank">Website</a>
+            <a className="blue-link" href="https://bean.money" target="_blank" rel="noreferrer">Website</a>
           </p>
         </div>
       </div>
@@ -28,11 +28,11 @@ const Projects = () => (
         </h1>
         <div className="sm:flex sm:flex-column block items-center">
           <p style={{fontSize: 'small'}}>
-            <a className="blue-link" href="https://evmpipeline.org/pipeline.pdf" target="_blank">Whitepaper</a>
+            <a className="blue-link" href="https://evmpipeline.org/pipeline.pdf" target="_blank" rel="noreferrer">Whitepaper</a>
             <br/>
-            <a className="blue-link" href="https://github.com/BeanstalkFarms/Pipeline" target="_blank">Github</a>
+            <a className="blue-link" href="https://github.com/BeanstalkFarms/Pipeline" target="_blank" rel="noreferrer">Github</a>
             <br/>
-            <a className="blue-link" href="https://evmpipeline.org" target="_blank">Website</a>
+            <a className="blue-link" href="https://evmpipeline.org" target="_blank" rel="noreferrer">Website</a>
           </p>
         </div>
       </div>
@@ -43,11 +43,11 @@ const Projects = () => (
         </h1>
         <div className="sm:flex sm:flex-column block items-center">
           <p style={{fontSize: 'small'}}>
-            <a className="blue-link" href="https://roottoken.org/root.pdf" target="_blank">Whitepaper</a>
+            <a className="blue-link" href="https://roottoken.org/root.pdf" target="_blank" rel="noreferrer">Whitepaper</a>
             <br/>
-            <a className="blue-link"href="https://github.com/RootToken/Root" target="_blank">Github</a>
+            <a className="blue-link"href="https://github.com/RootToken/Root" target="_blank" rel="noreferrer">Github</a>
             <br/>
-            <a className="blue-link"href="https://roottoken.org" target="_blank">Website</a>
+            <a className="blue-link"href="https://roottoken.org" target="_blank" rel="noreferrer">Website</a>
           </p>
         </div>
       </div>
