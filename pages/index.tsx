@@ -1,7 +1,6 @@
 import type { GetStaticPropsResult, NextPage } from 'next'
 import Link from 'next/link';
 import Button from '../components/Buttons/Button';
-import { NextPage } from "next";
 import { NextSeo } from "next-seo";
 import { useState, useEffect } from "react";
 import Wrapper from '../components/Wrapper';
