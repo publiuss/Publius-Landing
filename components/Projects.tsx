@@ -12,7 +12,7 @@ const Projects = () => (
       <div style={{display: 'inline-flex', flexDirection: 'column'}}>
         <h1 className="text-xl font-normal leading-[3.5rem] text-[20px]" style={{display: 'flex', alignItems: 'center'}}>
           <Icon
-            style={{justifyContent: 'center', width: 'fit-content'}}
+            style={{width: 'fit-content'}}
             icon="/assets/icon/beanstalk.png">
           </Icon>
           Beanstalk &emsp;
