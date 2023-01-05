@@ -30,7 +30,7 @@ const Icon : FC<{
       : `bg-white hover:border-[#C1DEF2]`}
   `}>
     {!primary && typeof icon === 'string' && <img src={icon} className="xs:h-8 xs:w-8 sm:h-8 sm:w-8 w-6 h-6 p-1" style={props.iconStyle} />}
-    {primary && typeof icon === 'string' && <img src={icon} className="sm:h-22 sm:w-20 w-20 h-20 p-1 rounded-full" style={props.iconStyle} />}
+    {primary && typeof icon === 'string' && <img src={icon} className="sm:h-22 sm:w-20 w-20 h-20 p-1 rounded-full" style={{height: '100px', width:'100px'}} />}
   </a>
 );
 

@@ -64,11 +64,7 @@ const Home: NextPage<BlogProps> = ({ allPostsData }) => {
       />
       <div className="flex flex-col items-center px-4 py-8 max-w-2xl mx-auto justify-center" style={{ paddingBottom: '0px'}}>
         <div className="text-left text-2xl py-12" style={{ display: 'contents' }}>
-          <Icon
-            primary
-            style={{justifyContent: 'center', width: 'fit-content'}}
-            icon="/assets/community/publius-pfp.jpeg">
-          </Icon>
+          <Icon primary icon="/assets/community/publius-pfp.jpeg"/>
           <em>Publius&apos; Website</em>
         </div>
         <div className="space-y-6 md:space-y-12">

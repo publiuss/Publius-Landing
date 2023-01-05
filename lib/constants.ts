@@ -7,5 +7,6 @@ export const COPY = {
 }
 
 export const IMAGES = {
-  BASIC_META: SITE_URL + "/assets/meta/basic.png",
+  // BASIC_META: SITE_URL + "/assets/meta/basic.png",
+  BASIC_META: SITE_URL,
 }
