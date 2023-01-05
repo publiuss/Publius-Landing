@@ -11,90 +11,54 @@ const Projects = () => (
       {/* Beanstalk Project */}
       <div style={{display: 'inline-flex', flexDirection: 'column'}}>
         <h1 className="text-xl font-normal leading-[3.5rem] text-[20px]" style={{display: 'flex', alignItems: 'center'}}>
-          <Icon
-            style={{width: 'fit-content'}}
-            icon="/assets/icon/beanstalk.png">
-          </Icon>
+          <Icon icon="/assets/icon/beanstalk.png"/>
           Beanstalk &emsp;
         </h1>
         <div className="block items-center" style={{alignItems: 'center', display: 'flex', flexDirection: 'row'}}>
             <a href="https://bean.money/beanstalk.pdf" target="_blank" rel="noreferrer">
-              <Icon
-                style={{width: 'fit-content'}}
-                icon="/assets/icon/whitepaper.png">
-              </Icon>
+              <Icon icon="/assets/icon/whitepaper.png"/>
             </a>
             <a href="https://github.com/BeanstalkFarms/Beanstalk" target="_blank" rel="noreferrer">
-              <Icon
-                style={{width: 'fit-content'}}
-                icon="/assets/icon/github.png">
-              </Icon>
+              <Icon icon="/assets/icon/github.png"/>
             </a>
             <a href="https://bean.money" target="_blank" rel="noreferrer">
-              <Icon
-                style={{width: 'fit-content'}}
-                icon="/assets/icon/website.png">
-              </Icon>
+              <Icon icon="/assets/icon/website.png"/>
             </a>
         </div>
       </div>
       {/* Pipeline Project */}
       <div style={{display: 'inline-flex', flexDirection: 'column'}}>
         <h1 className="text-xl font-normal leading-[3.5rem] text-[20px]" style={{display: 'flex', alignItems: 'center'}}>
-          <Icon
-            style={{width: 'fit-content'}}
-            icon="/assets/icon/pipeline.png">
-          </Icon>
+          <Icon icon="/assets/icon/pipeline.png"/>
           Pipeline &emsp;
         </h1>
         <div className="block items-center" style={{alignItems: 'center', display: 'flex', flexDirection: 'row'}}>
             <a href="https://evmpipeline.org/pipeline.pdf" target="_blank" rel="noreferrer">
-              <Icon
-                style={{width: 'fit-content'}}
-                icon="/assets/icon/whitepaper.png">
-              </Icon>
+              <Icon icon="/assets/icon/whitepaper.png"/>
             </a>
             <a href="https://github.com/BeanstalkFarms/Pipeline" target="_blank" rel="noreferrer">
-              <Icon
-                style={{width: 'fit-content'}}
-                icon="/assets/icon/github.png">
-              </Icon>
+              <Icon icon="/assets/icon/github.png"/>
             </a>
             <a href="https://evmpipeline.org" target="_blank" rel="noreferrer">
-              <Icon
-                style={{width: 'fit-content'}}
-                icon="/assets/icon/website.png">
-              </Icon>
+              <Icon icon="/assets/icon/website.png"/>
             </a>
         </div>
       </div>
       {/* Root Project */}
       <div style={{display: 'inline-flex', flexDirection: 'column'}}>
         <h1 className="text-xl font-normal leading-[3.5rem] text-[20px]" style={{display: 'flex', alignItems: 'center'}}>
-          <Icon
-            style={{width: 'fit-content'}}
-            icon="/assets/icon/root.png">
-          </Icon>
+          <Icon icon="/assets/icon/root.png"/>
           Root &emsp;
         </h1>
         <div className="block items-center" style={{alignItems: 'center', display: 'flex', flexDirection: 'row'}}>
             <a href="https://roottoken.org/root.pdf" target="_blank" rel="noreferrer">
-              <Icon
-                style={{width: 'fit-content'}}
-                icon="/assets/icon/whitepaper.png">
-              </Icon>
+              <Icon icon="/assets/icon/whitepaper.png"/>
             </a>
             <a href="https://github.com/RootToken/Root" target="_blank" rel="noreferrer">
-              <Icon
-                style={{width: 'fit-content'}}
-                icon="/assets/icon/github.png">
-              </Icon>
+              <Icon icon="/assets/icon/github.png"/>
             </a>
             <a href="https://roottoken.org" target="_blank" rel="noreferrer">
-              <Icon
-                style={{width: 'fit-content'}}
-                icon="/assets/icon/website.png">
-              </Icon>
+              <Icon icon="/assets/icon/website.png"/>
             </a>
         </div>
       </div>
