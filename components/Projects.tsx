@@ -24,6 +24,9 @@ const Projects = () => (
             <a href="https://bean.money" target="_blank" rel="noreferrer">
               <Icon icon="/assets/icon/website.png"/>
             </a>
+            <a href="/history" target="_blank" rel="noreferrer">
+              <Icon icon="/assets/icon/history.png"/>
+            </a>
         </div>
       </div>
       {/* Pipeline Project */}

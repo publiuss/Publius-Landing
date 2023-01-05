@@ -9,6 +9,7 @@ import Projects from '../components/Projects';
 import { getSortedPostsData, PostData } from "../lib/posts";
 import PostButton from '../components/Buttons/PostButton';
 import { IMAGES, SITE_URL } from "../lib/constants";
+import { beanstalk_versions } from "../lib/projectlinks";
 
 type BlogProps = {
   allPostsData: PostData[]
@@ -35,6 +36,7 @@ const Home: NextPage<BlogProps> = ({ allPostsData }) => {
   // const updateFilter = (e: any) => {
   //   setFilter(e.target.value === "All" ? null : e.target.value);
   // }
+  console.log(beanstalk_versions);
 
   return (
     <>
@@ -80,6 +82,14 @@ const Home: NextPage<BlogProps> = ({ allPostsData }) => {
         </div>
       </div>
       <Projects />
+      <a href="http://localhost:3003/history" target="_blank" rel="noreferrer">
+        <Button
+          primary
+          desc={<span className="text-white text-2xl system md:block hidden">&rarr;</span>}
+          icon="/assets/icon/history.svg">
+          Version History
+        </Button>
+      </a>
       <Wrapper variant="default">
         <div className="space-y-6">
           <div className="sm:flex sm:flex-row block items-center justify-between sm:space-x-3 sm:space-y-0 space-y-2">
