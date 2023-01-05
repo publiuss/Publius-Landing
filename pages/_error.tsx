@@ -7,7 +7,7 @@ import { COPY, IMAGES } from "../lib/constants";
 type ErrorProps = { res : any, err: any };
 
 // Metadata
-const TITLE = `404 | Beanstalk`;
+const TITLE = `404 | Publius`;
 const DESC  = COPY.BASIC_DESCRIPTION;
 function Error(props: any) {
   return (

@@ -1,6 +1,6 @@
 ---
 title: "Thoughts Before the Barn Raise"
-subtitle: "From Publius"
+subtitle: "In anticipation of reembarking on our collective journey between Scylla and Charybdis."
 author: Publius
 description: >-
   Thoughts from Publius before the Barn Raise.

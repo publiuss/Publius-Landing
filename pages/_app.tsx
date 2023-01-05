@@ -18,11 +18,11 @@ function MyApp({ Component, pageProps }: EnhancedAppProps) {
       <Component {...pageProps} />
       <Head>
         {/* Google Analytics */}
-        <script dangerouslySetInnerHTML={{ __html: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        <Script dangerouslySetInnerHTML={{ __html: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
         j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-KGLM87W');` }}></script>
+      })(window,document,'script','dataLayer','GTM-KGLM87W');` }}></Script>
       </Head>
       <Script src="https://identity.netlify.com/v1/netlify-identity-widget.js" />
     </>

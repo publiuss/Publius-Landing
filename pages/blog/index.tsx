@@ -63,7 +63,7 @@ const Blog: NextPage<BlogProps> = ({ allPostsData }) => {
         <div className="space-y-6">
           <div className="sm:flex sm:flex-row block items-center justify-between sm:space-x-3 sm:space-y-0 space-y-2">
             <h1 className="text-2xl font-normal leading-[3.5rem]">
-              Blog
+              {`Blog`}
             </h1>
             <select onChange={e => updateFilter(e)} id="category" className="bg-gray-35 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-70 p-2.5 hover:border-[#C1DEF2] border border-[#C1DEF2]">
               <option selected>All</option>
