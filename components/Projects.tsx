@@ -15,15 +15,10 @@ const Projects = () => (
           Beanstalk &emsp;
         </h1>
         <div className="block items-center" style={{alignItems: 'center', display: 'flex', flexDirection: 'row'}}>
-            <a href="https://bean.money/beanstalk.pdf" target="_blank" rel="noreferrer">
-              <Icon icon="/assets/icon/whitepaper.png"/>
-            </a>
-            <a href="https://github.com/BeanstalkFarms/Beanstalk" target="_blank" rel="noreferrer">
-              <Icon icon="/assets/icon/github.png"/>
-            </a>
-            <a href="https://bean.money" target="_blank" rel="noreferrer">
-              <Icon icon="/assets/icon/website.png"/>
-            </a>
+          <Icon icon="/assets/icon/whitepaper.png" href="https://bean.money/beanstalk.pdf"/>
+          <Icon icon="/assets/icon/github.png" href="https://github.com/BeanstalkFarms/Beanstalk"/>
+          <Icon icon="/assets/icon/website.png" href="https://bean.money"/>
+          <Icon icon="/assets/icon/history.png" href="https://github.com/BeanstalkFarms/Beanstalk-Whitepaper/tree/master/version-history"/>
         </div>
       </div>
       {/* Pipeline Project */}
@@ -33,15 +28,10 @@ const Projects = () => (
           Pipeline &emsp;
         </h1>
         <div className="block items-center" style={{alignItems: 'center', display: 'flex', flexDirection: 'row'}}>
-            <a href="https://evmpipeline.org/pipeline.pdf" target="_blank" rel="noreferrer">
-              <Icon icon="/assets/icon/whitepaper.png"/>
-            </a>
-            <a href="https://github.com/BeanstalkFarms/Pipeline" target="_blank" rel="noreferrer">
-              <Icon icon="/assets/icon/github.png"/>
-            </a>
-            <a href="https://evmpipeline.org" target="_blank" rel="noreferrer">
-              <Icon icon="/assets/icon/website.png"/>
-            </a>
+          <Icon icon="/assets/icon/whitepaper.png" href="https://evmpipeline.org/pipeline.pdf"/>
+          <Icon icon="/assets/icon/github.png" href="https://github.com/BeanstalkFarms/Pipeline"/>
+          <Icon icon="/assets/icon/website.png" href="https://evmpipeline.org"/>
+          <Icon icon="/assets/icon/history.png" href="https://github.com/BeanstalkFarms/Pipeline-Whitepaper/tree/master/version-history"/>
         </div>
       </div>
       {/* Root Project */}
@@ -51,15 +41,10 @@ const Projects = () => (
           Root &emsp;
         </h1>
         <div className="block items-center" style={{alignItems: 'center', display: 'flex', flexDirection: 'row'}}>
-            <a href="https://roottoken.org/root.pdf" target="_blank" rel="noreferrer">
-              <Icon icon="/assets/icon/whitepaper.png"/>
-            </a>
-            <a href="https://github.com/RootToken/Root" target="_blank" rel="noreferrer">
-              <Icon icon="/assets/icon/github.png"/>
-            </a>
-            <a href="https://roottoken.org" target="_blank" rel="noreferrer">
-              <Icon icon="/assets/icon/website.png"/>
-            </a>
+          <Icon icon="/assets/icon/whitepaper.png" href="https://roottoken.org/root.pdf"/>
+          <Icon icon="/assets/icon/github.png" href="https://github.com/RootToken/Root"/>
+          <Icon icon="/assets/icon/website.png" href="https://roottoken.org"/>
+          <Icon icon="/assets/icon/history.png" href="https://github.com/RootToken/Root-Whitepaper/tree/master/version-history"/>
         </div>
       </div>
     </div>

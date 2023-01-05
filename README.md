@@ -1,4 +1,4 @@
-<img src="https://github.com/publiuss/Publius-Landing/blob/main/public/assets/community/publius-pfp.jpeg" alt="Publius pfp" align="right" width="120" />
+<img src="https://github.com/publiuss/Publius-Landing/blob/main/public/assets/community/publius-pfp.png" alt="Publius pfp" align="right" width="120" />
 
 # Publius Landing Page
 
