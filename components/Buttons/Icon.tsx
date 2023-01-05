@@ -16,7 +16,7 @@ const Icon : FC<{
   desc = undefined,
   ...props
 }) => (
-  <a {...props}
+  <a {...props} target="_blank" rel="noreferrer"
   className={
     `${props.className}
     sm:px-0 px-0 py-0 rounded-[10px]
