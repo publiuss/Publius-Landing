@@ -20,19 +20,19 @@ const Projects = () => (
         <div className="block items-center" style={{alignItems: 'center', display: 'flex', flexDirection: 'row'}}>
             <a href="https://bean.money/beanstalk.pdf" target="_blank" rel="noreferrer">
               <Icon
-                style={{justifyContent: 'center', width: 'fit-content'}}
+                style={{width: 'fit-content'}}
                 icon="/assets/icon/whitepaper.png">
               </Icon>
             </a>
             <a href="https://github.com/BeanstalkFarms/Beanstalk" target="_blank" rel="noreferrer">
               <Icon
-                style={{justifyContent: 'center', width: 'fit-content'}}
+                style={{width: 'fit-content'}}
                 icon="/assets/icon/github.png">
               </Icon>
             </a>
             <a href="https://bean.money" target="_blank" rel="noreferrer">
               <Icon
-                style={{justifyContent: 'center', width: 'fit-content'}}
+                style={{width: 'fit-content'}}
                 icon="/assets/icon/website.png">
               </Icon>
             </a>
@@ -42,7 +42,7 @@ const Projects = () => (
       <div style={{display: 'inline-flex', flexDirection: 'column'}}>
         <h1 className="text-xl font-normal leading-[3.5rem] text-[20px]" style={{display: 'flex', alignItems: 'center'}}>
           <Icon
-            style={{justifyContent: 'center', width: 'fit-content'}}
+            style={{width: 'fit-content'}}
             icon="/assets/icon/pipeline.png">
           </Icon>
           Pipeline &emsp;
@@ -50,19 +50,19 @@ const Projects = () => (
         <div className="block items-center" style={{alignItems: 'center', display: 'flex', flexDirection: 'row'}}>
             <a href="https://evmpipeline.org/pipeline.pdf" target="_blank" rel="noreferrer">
               <Icon
-                style={{justifyContent: 'center', width: 'fit-content'}}
+                style={{width: 'fit-content'}}
                 icon="/assets/icon/whitepaper.png">
               </Icon>
             </a>
             <a href="https://github.com/BeanstalkFarms/Pipeline" target="_blank" rel="noreferrer">
               <Icon
-                style={{justifyContent: 'center', width: 'fit-content'}}
+                style={{width: 'fit-content'}}
                 icon="/assets/icon/github.png">
               </Icon>
             </a>
             <a href="https://evmpipeline.org" target="_blank" rel="noreferrer">
               <Icon
-                style={{justifyContent: 'center', width: 'fit-content'}}
+                style={{width: 'fit-content'}}
                 icon="/assets/icon/website.png">
               </Icon>
             </a>
@@ -72,7 +72,7 @@ const Projects = () => (
       <div style={{display: 'inline-flex', flexDirection: 'column'}}>
         <h1 className="text-xl font-normal leading-[3.5rem] text-[20px]" style={{display: 'flex', alignItems: 'center'}}>
           <Icon
-            style={{justifyContent: 'center', width: 'fit-content'}}
+            style={{width: 'fit-content'}}
             icon="/assets/icon/root.png">
           </Icon>
           Root &emsp;
@@ -80,19 +80,19 @@ const Projects = () => (
         <div className="block items-center" style={{alignItems: 'center', display: 'flex', flexDirection: 'row'}}>
             <a href="https://roottoken.org/root.pdf" target="_blank" rel="noreferrer">
               <Icon
-                style={{justifyContent: 'center', width: 'fit-content'}}
+                style={{width: 'fit-content'}}
                 icon="/assets/icon/whitepaper.png">
               </Icon>
             </a>
             <a href="https://github.com/RootToken/Root" target="_blank" rel="noreferrer">
               <Icon
-                style={{justifyContent: 'center', width: 'fit-content'}}
+                style={{width: 'fit-content'}}
                 icon="/assets/icon/github.png">
               </Icon>
             </a>
             <a href="https://roottoken.org" target="_blank" rel="noreferrer">
               <Icon
-                style={{justifyContent: 'center', width: 'fit-content'}}
+                style={{width: 'fit-content'}}
                 icon="/assets/icon/website.png">
               </Icon>
             </a>
