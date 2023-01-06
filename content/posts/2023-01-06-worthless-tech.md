@@ -4,7 +4,7 @@ subtitle: "Despite its promise and potential, DeFi has failed to facilitate real
 author: Publius
 description: >-
   Despite its promise and potential, DeFi has failed to facilitate real economic activity (no, yield farming doesn’t count).
-date: 2023-01-06T15:21:31.355Z
+date: 2023-01-06T17:59:31.355Z
 image: /assets/uploads/defi-timeline.png
 tag: DeFi
 ---
