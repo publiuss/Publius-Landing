@@ -5,7 +5,7 @@ author: Publius
 description: >-
   Despite its promise and potential, DeFi has failed to facilitate real economic activity (no, yield farming doesn’t count).
 date: 2023-01-06T15:21:31.355Z
-image: /assets/uploads/defi-timeline.jpeg
+image: /assets/uploads/defi-timeline.png
 tag: DeFi
 ---
 
@@ -106,7 +106,7 @@ While its potential is exciting, almost none of the DeFi stack described above i
 
 _“You are what your record says you are.” - Bill Parcells_
 
-Tokens can be almost anything, such that making accurate generalizations about them is quite difficult. Despite (or, perhaps because of) their flexibility, there is little understanding of the proper role of tokens in the development and maintenance of trustless networks. There used to be much discussion about where value would accrue within the censorship resistant tech stack (i.e., [fat/skinny proto cols](https://www.usv.com/writing/2016/08/fat-protocols/)), how to best fund the development of censorship resistant tech, and the role of tokens in aligning value capture and funding of development and maintenance. Today, there is much data from experimentation over the previous five years to look back on to complement the theoretical discussion, which has yet to be integrated into protocol designs and funding models. Even though the need for a token is questionable at best and financial performance of almost every token to date has been horrendous, they remain the most popular way to align incentives between investors and developers.
+Tokens can be almost anything, such that making accurate generalizations about them is quite difficult. Despite (or, perhaps because of) their flexibility, there is little understanding of the proper role of tokens in the development and maintenance of trustless networks. There used to be much discussion about where value would accrue within the censorship resistant tech stack (i.e., [fat/skinny protocols](https://www.usv.com/writing/2016/08/fat-protocols/)), how to best fund the development of censorship resistant tech, and the role of tokens in aligning value capture and funding of development and maintenance. Today, there is much data from experimentation over the previous five years to look back on to complement the theoretical discussion, which has yet to be integrated into protocol designs and funding models. Even though the need for a token is questionable at best and financial performance of almost every token to date has been horrendous, they remain the most popular way to align incentives between investors and developers.
 
 The source of value of tokens can be classified (imperfectly) into monetary (i.e., store of value, medium of exchange, unit of account) and financial (e.g., equity, debt) components. Whereas the financial value of assets derives from some future expected payment valued in money, monetary value derives from the properties of the asset itself. Tokens are so flexible that their value may derive from a mix of monetary and financial properties. The fact that financial assets can be used as monetary assets (e.g., bank deposit slips) does not help to simplify the issue.
 
