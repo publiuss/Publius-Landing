@@ -3,7 +3,7 @@ title: "Beanstalk Development Update"
 subtitle: "Current developments of the DeFi stack outlined in the piece by members of the Beanstalk DAO."
 author: Publius
 description: >-
-  This is a complementary piece to “Worthless Tech” with additional details on current developments of the DeFi stack outlined in the piece by members of the Beanstalk DAO.
+  A complementary piece to ‘Worthless Tech’ highlighting some developments in the Beanstalk ecosystem.
 date: 2023-01-06T17:57:57.629Z
 image: /assets/uploads/beanstalk-building.png
 tag: Beanstalk
