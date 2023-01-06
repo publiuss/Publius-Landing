@@ -1,5 +1,5 @@
 [context.production]
-  environment = { NEXT_PUBLIC_SITE_URL = "https://bean.money" }
+  environment = { NEXT_PUBLIC_SITE_URL = "https://publius.money" }
 
 [context.branch-deploy.environment]
-  NEXT_PUBLIC_SITE_URL = "https://dev.bean.money"
+  NEXT_PUBLIC_SITE_URL = "https://publius.money"
